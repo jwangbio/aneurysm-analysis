@@ -1,4 +1,4 @@
-# aneurysm-analysis
+# Aneurysm analysis
 
 Chang N. Kim & Jerry C. Wang et al.
 
